@@ -1,0 +1,31 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #333333;
+}
+
+a {
+  color: #00B7FF;
+}
+.container{
+  padding-top: 20px;
+}
+
+.payload,.response{
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+pre.res{
+  color: #1e8217;
+}
+
+pre{
+  font-family: monospace;
+  line-height: 1.4;
+  margin: 0;
+  color: #ff07ec;
+}
+
+
