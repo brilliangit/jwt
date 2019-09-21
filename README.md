@@ -1,4 +1,4 @@
-# RESFULL API express + jwt
+# RESFULL API express and jwt
 # auth node js express with jwt
 
 INSTALASI:
